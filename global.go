@@ -5,7 +5,7 @@ import "xorm.io/xorm"
 var GlobalXormLockFactory *XormLockFactory
 
 func InitGlobalXormLockFactory(engine *xorm.Engine) error {
-	factory, err := NewSqlxLockFactory(engine)
+	factory, err := NewXormLockFactory(engine)
 	if err != nil {
 		return err
 	}

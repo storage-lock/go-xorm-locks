@@ -13,7 +13,7 @@ type XormLockFactory struct {
 	*storage_lock_factory.StorageLockFactory[*sql.DB]
 }
 
-func NewSqlxLockFactory(engine *xorm.Engine) (*XormLockFactory, error) {
+func NewXormLockFactory(engine *xorm.Engine) (*XormLockFactory, error) {
 	connectionManager := NewXormConnectionManager(engine)
 
 	storage, err := CreateStorageForXorm(engine, connectionManager)
