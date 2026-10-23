@@ -358,8 +358,8 @@ github.com/soheilhy/cmux v0.1.4/go.mod h1:IM3LyeVVIOuxMH7sFAkER9+bJ4dT7Ms6E4xg4k
 github.com/sony/gobreaker v0.4.1/go.mod h1:ZKptC7FHNvhBz7dN2LGjPVBz2sZJmc0/PkyDJOjmxWY=
 github.com/spf13/cobra v0.0.3/go.mod h1:1l0Ry5zgKvJasoi3XT1TypsSe7PqH0Sj9dhYf7v3XqQ=
 github.com/spf13/pflag v1.0.1/go.mod h1:DYY7MBk1bdzusC3SYhjObp+wFpr4gzcvqqNjLnInEg4=
-github.com/storage-lock/go-events v0.0.4 h1:5cSu1OMde6B1FPywmfXTU9lBPrMLBo35OnypOAQAvk8=
-github.com/storage-lock/go-events v0.0.4/go.mod h1:eJtZJlcZEKJgDDzuLw+rCrdy3vImJZGQ6gsb55OOcZ4=
+github.com/storage-lock/go-events v0.0.5 h1:V8R4wYQ0q7KWZ2cfIdgctMhNY8Uiwgt0a1N3Jsq8Dds=
+github.com/storage-lock/go-events v0.0.5/go.mod h1:eJtZJlcZEKJgDDzuLw+rCrdy3vImJZGQ6gsb55OOcZ4=
 github.com/storage-lock/go-mysql-storage v0.0.3 h1:/Iw0Y57SEErzw6kaB/HM2Y8GI3UMuI8JwLzWrs5hrSg=
 github.com/storage-lock/go-mysql-storage v0.0.3/go.mod h1:mK1JKesUtGGz7nltJZJIvP1Rdzt5GBnJBP2iNpPRp9s=
 github.com/storage-lock/go-postgresql-storage v0.0.3 h1:6Uu5HuL6YNuU8LTORNWXNJIaA6Y7842RvqiCchOzgBw=

@@ -30,7 +30,7 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/storage-lock/go-events v0.0.4 // indirect
+	github.com/storage-lock/go-events v0.0.5 // indirect
 	github.com/storage-lock/go-mysql-storage v0.0.3 // indirect
 	github.com/storage-lock/go-postgresql-storage v0.0.3 // indirect
 	github.com/storage-lock/go-sql-based-storage v0.0.2 // indirect
