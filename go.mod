@@ -6,7 +6,7 @@ require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/mattn/go-sqlite3 v1.14.17
 	github.com/storage-lock/go-sqldb-storage v0.0.2
-	github.com/storage-lock/go-storage v0.0.3
+	github.com/storage-lock/go-storage v0.1.0
 	github.com/storage-lock/go-storage-lock-factory v0.0.2
 	github.com/stretchr/testify v1.11.1
 	xorm.io/xorm v1.3.2
@@ -37,7 +37,7 @@ require (
 	github.com/storage-lock/go-sqlite3-storage v0.0.2 // indirect
 	github.com/storage-lock/go-sqlserver-storage v0.0.2 // indirect
 	github.com/storage-lock/go-storage-events v0.0.6 // indirect
-	github.com/storage-lock/go-storage-lock v0.0.6 // indirect
+	github.com/storage-lock/go-storage-lock v0.1.0 // indirect
 	github.com/storage-lock/go-utils v0.0.2 // indirect
 	github.com/syndtr/goleveldb v1.0.0 // indirect
 	golang.org/x/crypto v0.13.0 // indirect
